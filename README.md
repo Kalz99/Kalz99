@@ -1,4 +1,4 @@
-# Hi there, I'm Kalz 👋
+# Hi there, I'm Kalhara 👋
 
 ### Full-Stack Engineer
 
