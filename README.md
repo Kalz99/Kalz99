@@ -4,7 +4,7 @@
 
 I am a passionate Full-Stack Developer with **5+ years of experience** designing, building, and optimizing scalable, high-performance applications. My core expertise lies in clean architecture, robust backend engineering, and end-to-end product development.
 
-I actively integrate **AI-assisted workflows, Multi-Context Protocols (MCP), and automated orchestration tools** to maximize development velocity while upholding strict software engineering principles. Currently pursuing an **MSc in Artificial Intelligence**, I focus on bridging the gap between practical machine learning and production-ready, intelligent web systems.
+I actively integrate **AI-assisted workflows, Multi-Context Protocols (MCP) and automated orchestration tools** to maximize development efficiency while upholding strict software engineering principles. Currently pursuing an **MSc in Artificial Intelligence**, I focus on bridging the gap between practical machine learning and production-ready, intelligent web systems.
 
 ---
 
