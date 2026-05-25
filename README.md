@@ -59,12 +59,13 @@ I actively integrate **AI-assisted workflows, Multi-Context Protocols (MCP) and 
 
 ---
 
-## 🌱 Learning Ecosystem
+## 🌱 Learning Ecosystem  
 
-* ⚙️ **Advanced Backend Architecture:** Exploring architectural patterns, microservices distribution, and resilience scaling.
-* 📐 **System Design Principles:** Diving deeper into distributed system designs, caching mechanics, and load balancing topologies.
-* ⚡ **Performance Optimization:** Tuning runtime execution speeds and resource consumption.
-* 🗄️ **Scalable PostgreSQL Query Patterns:** Mastering query execution analysis, explicit indexing profiles, and transactional scaling optimizations.
+⚙️ Advanced Backend Architecture: Exploring architectural patterns, microservices distribution, and resilience scaling.  
+🤖 Deep Learning & Neural Networks: Exploring CNNs, RNNs, Transformers, and modern AI model architectures.  
+🚀 MLOps & AI Deployment: Learning model serving, inference optimization, Dockerized ML pipelines, and scalable AI deployments.  
+🧠 Generative AI Engineering: Experimenting with LLM integrations, vector databases, embeddings, and retrieval-augmented systems.  
+☁️ Scalable AI Infrastructure: Studying distributed AI workloads, GPU acceleration, model optimization, and cloud-based ML systems.  
 
 ---
 
