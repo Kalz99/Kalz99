@@ -2,7 +2,7 @@
 
 ### Full-Stack Engineer
 
-I am a passionate Full-Stack Developer with **5+ years of experience** designing, building, and optimizing scalable, high-performance applications. My core expertise lies in clean architecture, robust backend engineering, and end-to-end product development.
+I am a passionate Full-Stack Developer with **5+ years of experience** designing, building and optimizing scalable, high-performance applications. My core expertise lies in clean architecture, robust backend engineering and end-to-end product development.
 
 I actively integrate **AI-assisted workflows, Multi-Context Protocols (MCP) and automated orchestration tools** to maximize development efficiency while upholding strict software engineering principles. Currently pursuing an **MSc in Artificial Intelligence**, I focus on bridging the gap between practical machine learning and production-ready, intelligent web systems.
 
@@ -62,11 +62,11 @@ I actively integrate **AI-assisted workflows, Multi-Context Protocols (MCP) and 
 
 ## 🌱 Learning Ecosystem  
 
-⚙️ Advanced Backend Architecture: Exploring architectural patterns, microservices distribution, and resilience scaling.  
-🤖 Deep Learning & Neural Networks: Exploring CNNs, RNNs, Transformers, and modern AI model architectures.  
-🚀 MLOps & AI Deployment: Learning model serving, inference optimization, Dockerized ML pipelines, and scalable AI deployments.  
-🧠 Generative AI Engineering: Experimenting with LLM integrations, vector databases, embeddings, and retrieval-augmented systems.  
-☁️ Scalable AI Infrastructure: Studying distributed AI workloads, GPU acceleration, model optimization, and cloud-based ML systems.  
+⚙️ **Advanced Backend Architecture:** Exploring architectural patterns, microservices distribution and resilience scaling.  
+🤖 **Deep Learning & Neural Networks:** Exploring CNNs, RNNs, Transformers and modern AI model architectures.  
+🚀 **MLOps & AI Deployment:** Learning model serving, inference optimization, Dockerized ML pipelines and scalable AI deployments.  
+🧠 **Generative AI Engineering:** Experimenting with LLM integrations, vector databases, embeddings and retrieval-augmented systems.  
+☁️ **Scalable AI Infrastructure:** Studying distributed AI workloads, GPU acceleration, model optimization and cloud-based ML systems.  
 
 ---
 
